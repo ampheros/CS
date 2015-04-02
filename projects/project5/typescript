@@ -1,0 +1,224 @@
+Script started on Sun 01 Mar 2015 05:39:53 PM PST
+[0;36m╔═([0m[0;36mrei[0m@[0;32mKyo[0m[0;36m)────([0m17:39:53 Sun Mar 01[0;36m)────([0m~/cs202/projects/project5[0;36m)
+[0;36m╚═══[ [0m[0;36m$[0m[0;36m]>[0m make
+make: 'slot' is up to date.
+[0;36m╔═([0m[0;36mrei[0m@[0;32mKyo[0m[0;36m)────([0m17:39:56 Sun Mar 01[0;36m)────([0m~/cs202/projects/project5[0;36m)
+[0;36m╚═══[ [0m[0;36m$[0m[0;36m]>[0m ./slot 
+Slot Machine Simulator
+:::::::::::::::::::::::::::::::::::::::::
+ 1. Read in symbols file
+ 2. Generate Configuration
+ 3. Print config to screen
+ 4. Pick a Stop an Reel
+ 0. Exit
+:::::::::::::::::::::::::::::::::::::::::
+Enter your selection: 1
+
+Input Filename: symbols
+Slot Machine Simulator
+:::::::::::::::::::::::::::::::::::::::::
+ 1. Read in symbols file
+ 2. Generate Configuration
+ 3. Print config to screen
+ 4. Pick a Stop an Reel
+ 0. Exit
+:::::::::::::::::::::::::::::::::::::::::
+Enter your selection: 2
+
+Slot Machine Simulator
+:::::::::::::::::::::::::::::::::::::::::
+ 1. Read in symbols file
+ 2. Generate Configuration
+ 3. Print config to screen
+ 4. Pick a Stop an Reel
+ 0. Exit
+:::::::::::::::::::::::::::::::::::::::::
+Enter your selection: 3
+
+bell, 5, true
+orange, 0, false
+lemon, 0, false
+bell, 5, true
+7, 10, true
+bell, 5, true
+orange, 0, false
+bar, 6, true
+lemon, 0, false
+bell, 5, true
+
+Slot Machine Simulator
+:::::::::::::::::::::::::::::::::::::::::
+ 1. Read in symbols file
+ 2. Generate Configuration
+ 3. Print config to screen
+ 4. Pick a Stop an Reel
+ 0. Exit
+:::::::::::::::::::::::::::::::::::::::::
+Enter your selection: 2
+
+Slot Machine Simulator
+:::::::::::::::::::::::::::::::::::::::::
+ 1. Read in symbols file
+ 2. Generate Configuration
+ 3. Print config to screen
+ 4. Pick a Stop an Reel
+ 0. Exit
+:::::::::::::::::::::::::::::::::::::::::
+Enter your selection: 3
+
+cherry, 1, true
+bell, 5, true
+cherry, 1, true
+bell, 5, true
+7, 10, true
+orange, 0, false
+bar, 6, true
+bar, 6, true
+orange, 0, false
+orange, 0, false
+
+Slot Machine Simulator
+:::::::::::::::::::::::::::::::::::::::::
+ 1. Read in symbols file
+ 2. Generate Configuration
+ 3. Print config to screen
+ 4. Pick a Stop an Reel
+ 0. Exit
+:::::::::::::::::::::::::::::::::::::::::
+Enter your selection: 2
+
+Slot Machine Simulator
+:::::::::::::::::::::::::::::::::::::::::
+ 1. Read in symbols file
+ 2. Generate Configuration
+ 3. Print config to screen
+ 4. Pick a Stop an Reel
+ 0. Exit
+:::::::::::::::::::::::::::::::::::::::::
+Enter your selection: 3
+
+7, 10, true
+cherry, 1, true
+lemon, 0, false
+lemon, 0, false
+cherry, 1, true
+cherry, 1, true
+cherry, 1, true
+bell, 5, true
+bell, 5, true
+bell, 5, true
+
+Slot Machine Simulator
+:::::::::::::::::::::::::::::::::::::::::
+ 1. Read in symbols file
+ 2. Generate Configuration
+ 3. Print config to screen
+ 4. Pick a Stop an Reel
+ 0. Exit
+:::::::::::::::::::::::::::::::::::::::::
+Enter your selection: 4
+
+Choose a stop (1-10): 1
+
+Stop 1 Data: 
+7, 10, true
+
+Slot Machine Simulator
+:::::::::::::::::::::::::::::::::::::::::
+ 1. Read in symbols file
+ 2. Generate Configuration
+ 3. Print config to screen
+ 4. Pick a Stop an Reel
+ 0. Exit
+:::::::::::::::::::::::::::::::::::::::::
+Enter your selection: 4
+
+Choose a stop (1-10): 10
+
+Stop 10 Data: 
+bell, 5, true
+
+Slot Machine Simulator
+:::::::::::::::::::::::::::::::::::::::::
+ 1. Read in symbols file
+ 2. Generate Configuration
+ 3. Print config to screen
+ 4. Pick a Stop an Reel
+ 0. Exit
+:::::::::::::::::::::::::::::::::::::::::
+Enter your selection: 0
+
+[0;36m╔═([0m[0;36mrei[0m@[0;32mKyo[0m[0;36m)────([0m17:40:36 Sun Mar 01[0;36m)────([0m~/cs202/projects/project5[0;36m)
+[0;36m╚═══[ [0m[0;36m$[0m[0;36m]>[0m ./slot
+Slot Machine Simulator
+:::::::::::::::::::::::::::::::::::::::::
+ 1. Read in symbols file
+ 2. Generate Configuration
+ 3. Print config to screen
+ 4. Pick a Stop an Reel
+ 0. Exit
+:::::::::::::::::::::::::::::::::::::::::
+Enter your selection: 1
+
+Input Filename: symbols
+Slot Machine Simulator
+:::::::::::::::::::::::::::::::::::::::::
+ 1. Read in symbols file
+ 2. Generate Configuration
+ 3. Print config to screen
+ 4. Pick a Stop an Reel
+ 0. Exit
+:::::::::::::::::::::::::::::::::::::::::
+Enter your selection: 2
+
+Slot Machine Simulator
+:::::::::::::::::::::::::::::::::::::::::
+ 1. Read in symbols file
+ 2. Generate Configuration
+ 3. Print config to screen
+ 4. Pick a Stop an Reel
+ 0. Exit
+:::::::::::::::::::::::::::::::::::::::::
+Enter your selection: 3
+
+bell, 5, true
+orange, 0, false
+lemon, 0, false
+bell, 5, true
+7, 10, true
+bell, 5, true
+orange, 0, false
+bar, 6, true
+lemon, 0, false
+bell, 5, true
+
+Slot Machine Simulator
+:::::::::::::::::::::::::::::::::::::::::
+ 1. Read in symbols file
+ 2. Generate Configuration
+ 3. Print config to screen
+ 4. Pick a Stop an Reel
+ 0. Exit
+:::::::::::::::::::::::::::::::::::::::::
+Enter your selection: 4
+
+Choose a stop (1-10): 3
+
+Stop 3 Data: 
+lemon, 0, false
+
+Slot Machine Simulator
+:::::::::::::::::::::::::::::::::::::::::
+ 1. Read in symbols file
+ 2. Generate Configuration
+ 3. Print config to screen
+ 4. Pick a Stop an Reel
+ 0. Exit
+:::::::::::::::::::::::::::::::::::::::::
+Enter your selection: 0
+
+[0;36m╔═([0m[0;36mrei[0m@[0;32mKyo[0m[0;36m)────([0m17:40:54 Sun Mar 01[0;36m)────([0m~/cs202/projects/project5[0;36m)
+[0;36m╚═══[ [0m[0;36m$[0m[0;36m]>[0m exit
+exit
+
+Script done on Sun 01 Mar 2015 05:40:55 PM PST

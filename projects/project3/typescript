@@ -1,0 +1,302 @@
+Script started on Wed 18 Feb 2015 10:44:18 PM PST
+]0;rei@Kyo:~/cs202/projects/project3]7;file://Kyo/home/rei/cs202/projects/project3[0;36m╔═([0m[0;36mrei[0m@[0;32mKyo[0m[0;36m)────([0m22:44:18 Wed Feb 18[0;36m)────([0m~/cs202/projects/project3[0;36m)
+[0;36m╚═══[ [0m[0;36m$[0m[0;36m]>[0m slogin [K[K[K[K[K[K[K./slot3 
+Slot Machine Simulator
+:::::::::::::::::::::::::::::::::::::::::
+ 1. Read in symbols file
+ 2. Generate Configuration
+ 3. Print config to screen
+ 4. Pick a Stop an Reel
+ 0. Exit
+:::::::::::::::::::::::::::::::::::::::::
+Enter your selection: 1
+
+Input filename: symbols
+Slot Machine Simulator
+:::::::::::::::::::::::::::::::::::::::::
+ 1. Read in symbols file
+ 2. Generate Configuration
+ 3. Print config to screen
+ 4. Pick a Stop an Reel
+ 0. Exit
+:::::::::::::::::::::::::::::::::::::::::
+Enter your selection: 2
+
+Slot Machine Simulator
+:::::::::::::::::::::::::::::::::::::::::
+ 1. Read in symbols file
+ 2. Generate Configuration
+ 3. Print config to screen
+ 4. Pick a Stop an Reel
+ 0. Exit
+:::::::::::::::::::::::::::::::::::::::::
+Enter your selection: 3
+
+Reel 1:: 
+Symbol: orange -- Value: 0 --  Bonus: False
+Symbol: bell -- Value: 5 --  Bonus: True
+Symbol: 7 -- Value: 10 --  Bonus: True
+Symbol: bell -- Value: 5 --  Bonus: True
+Symbol: bell -- Value: 5 --  Bonus: True
+Symbol: 7 -- Value: 10 --  Bonus: True
+Symbol: cherry -- Value: 1 --  Bonus: True
+Symbol: orange -- Value: 0 --  Bonus: False
+Symbol: bell -- Value: 5 --  Bonus: True
+Symbol: bell -- Value: 5 --  Bonus: True
+
+Reel 2:: 
+Symbol: orange -- Value: 0 --  Bonus: False
+Symbol: bell -- Value: 5 --  Bonus: True
+Symbol: cherry -- Value: 1 --  Bonus: True
+Symbol: bar -- Value: 6 --  Bonus: True
+Symbol: 7 -- Value: 10 --  Bonus: True
+Symbol: bell -- Value: 5 --  Bonus: True
+Symbol: 7 -- Value: 10 --  Bonus: True
+Symbol: cherry -- Value: 1 --  Bonus: True
+Symbol: 7 -- Value: 10 --  Bonus: True
+Symbol: bell -- Value: 5 --  Bonus: True
+
+Reel 3:: 
+Symbol: cherry -- Value: 1 --  Bonus: True
+Symbol: cherry -- Value: 1 --  Bonus: True
+Symbol: bar -- Value: 6 --  Bonus: True
+Symbol: cherry -- Value: 1 --  Bonus: True
+Symbol: bell -- Value: 5 --  Bonus: True
+Symbol: bar -- Value: 6 --  Bonus: True
+Symbol: bell -- Value: 5 --  Bonus: True
+Symbol: bar -- Value: 6 --  Bonus: True
+Symbol: 7 -- Value: 10 --  Bonus: True
+Symbol: lemon -- Value: 0 --  Bonus: False
+
+Slot Machine Simulator
+:::::::::::::::::::::::::::::::::::::::::
+ 1. Read in symbols file
+ 2. Generate Configuration
+ 3. Print config to screen
+ 4. Pick a Stop an Reel
+ 0. Exit
+:::::::::::::::::::::::::::::::::::::::::
+Enter your selection: 4
+
+Pick a Reel (1-3): 1
+Pick a Stop (1-10): 1
+
+Symbol: bell
+Value: 5
+Bonus: True
+
+Slot Machine Simulator
+:::::::::::::::::::::::::::::::::::::::::
+ 1. Read in symbols file
+ 2. Generate Configuration
+ 3. Print config to screen
+ 4. Pick a Stop an Reel
+ 0. Exit
+:::::::::::::::::::::::::::::::::::::::::
+Enter your selection: 0
+
+Goodbye
+]0;rei@Kyo:~/cs202/projects/project3]7;file://Kyo/home/rei/cs202/projects/project3[0;36m╔═([0m[0;36mrei[0m@[0;32mKyo[0m[0;36m)────([0m22:44:57 Wed Feb 18[0;36m)────([0m~/cs202/projects/project3[0;36m)
+[0;36m╚═══[ [0m[0;36m$[0m[0;36m]>[0m ./slot3 
+Slot Machine Simulator
+:::::::::::::::::::::::::::::::::::::::::
+ 1. Read in symbols file
+ 2. Generate Configuration
+ 3. Print config to screen
+ 4. Pick a Stop an Reel
+ 0. Exit
+:::::::::::::::::::::::::::::::::::::::::
+Enter your selection: 1
+
+Input filename: symbols
+Slot Machine Simulator
+:::::::::::::::::::::::::::::::::::::::::
+ 1. Read in symbols file
+ 2. Generate Configuration
+ 3. Print config to screen
+ 4. Pick a Stop an Reel
+ 0. Exit
+:::::::::::::::::::::::::::::::::::::::::
+Enter your selection: 2
+
+Slot Machine Simulator
+:::::::::::::::::::::::::::::::::::::::::
+ 1. Read in symbols file
+ 2. Generate Configuration
+ 3. Print config to screen
+ 4. Pick a Stop an Reel
+ 0. Exit
+:::::::::::::::::::::::::::::::::::::::::
+Enter your selection: 3
+
+Reel 1:: 
+Symbol: orange -- Value: 0 --  Bonus: False
+Symbol: bell -- Value: 5 --  Bonus: True
+Symbol: orange -- Value: 0 --  Bonus: False
+Symbol: orange -- Value: 0 --  Bonus: False
+Symbol: bell -- Value: 5 --  Bonus: True
+Symbol: bell -- Value: 5 --  Bonus: True
+Symbol: 7 -- Value: 10 --  Bonus: True
+Symbol: bar -- Value: 6 --  Bonus: True
+Symbol: lemon -- Value: 0 --  Bonus: False
+Symbol: 7 -- Value: 10 --  Bonus: True
+
+Reel 2:: 
+Symbol: lemon -- Value: 0 --  Bonus: False
+Symbol: 7 -- Value: 10 --  Bonus: True
+Symbol: lemon -- Value: 0 --  Bonus: False
+Symbol: orange -- Value: 0 --  Bonus: False
+Symbol: 7 -- Value: 10 --  Bonus: True
+Symbol: cherry -- Value: 1 --  Bonus: True
+Symbol: lemon -- Value: 0 --  Bonus: False
+Symbol: bell -- Value: 5 --  Bonus: True
+Symbol: orange -- Value: 0 --  Bonus: False
+Symbol: lemon -- Value: 0 --  Bonus: False
+
+Reel 3:: 
+Symbol: 7 -- Value: 10 --  Bonus: True
+Symbol: bell -- Value: 5 --  Bonus: True
+Symbol: orange -- Value: 0 --  Bonus: False
+Symbol: orange -- Value: 0 --  Bonus: False
+Symbol: lemon -- Value: 0 --  Bonus: False
+Symbol: bell -- Value: 5 --  Bonus: True
+Symbol: orange -- Value: 0 --  Bonus: False
+Symbol: orange -- Value: 0 --  Bonus: False
+Symbol: 7 -- Value: 10 --  Bonus: True
+Symbol: bell -- Value: 5 --  Bonus: True
+
+Slot Machine Simulator
+:::::::::::::::::::::::::::::::::::::::::
+ 1. Read in symbols file
+ 2. Generate Configuration
+ 3. Print config to screen
+ 4. Pick a Stop an Reel
+ 0. Exit
+:::::::::::::::::::::::::::::::::::::::::
+Enter your selection: 3
+
+Reel 1:: 
+Symbol: orange -- Value: 0 --  Bonus: False
+Symbol: bell -- Value: 5 --  Bonus: True
+Symbol: orange -- Value: 0 --  Bonus: False
+Symbol: orange -- Value: 0 --  Bonus: False
+Symbol: bell -- Value: 5 --  Bonus: True
+Symbol: bell -- Value: 5 --  Bonus: True
+Symbol: 7 -- Value: 10 --  Bonus: True
+Symbol: bar -- Value: 6 --  Bonus: True
+Symbol: lemon -- Value: 0 --  Bonus: False
+Symbol: 7 -- Value: 10 --  Bonus: True
+
+Reel 2:: 
+Symbol: lemon -- Value: 0 --  Bonus: False
+Symbol: 7 -- Value: 10 --  Bonus: True
+Symbol: lemon -- Value: 0 --  Bonus: False
+Symbol: orange -- Value: 0 --  Bonus: False
+Symbol: 7 -- Value: 10 --  Bonus: True
+Symbol: cherry -- Value: 1 --  Bonus: True
+Symbol: lemon -- Value: 0 --  Bonus: False
+Symbol: bell -- Value: 5 --  Bonus: True
+Symbol: orange -- Value: 0 --  Bonus: False
+Symbol: lemon -- Value: 0 --  Bonus: False
+
+Reel 3:: 
+Symbol: 7 -- Value: 10 --  Bonus: True
+Symbol: bell -- Value: 5 --  Bonus: True
+Symbol: orange -- Value: 0 --  Bonus: False
+Symbol: orange -- Value: 0 --  Bonus: False
+Symbol: lemon -- Value: 0 --  Bonus: False
+Symbol: bell -- Value: 5 --  Bonus: True
+Symbol: orange -- Value: 0 --  Bonus: False
+Symbol: orange -- Value: 0 --  Bonus: False
+Symbol: 7 -- Value: 10 --  Bonus: True
+Symbol: bell -- Value: 5 --  Bonus: True
+
+Slot Machine Simulator
+:::::::::::::::::::::::::::::::::::::::::
+ 1. Read in symbols file
+ 2. Generate Configuration
+ 3. Print config to screen
+ 4. Pick a Stop an Reel
+ 0. Exit
+:::::::::::::::::::::::::::::::::::::::::
+Enter your selection: 2
+
+Slot Machine Simulator
+:::::::::::::::::::::::::::::::::::::::::
+ 1. Read in symbols file
+ 2. Generate Configuration
+ 3. Print config to screen
+ 4. Pick a Stop an Reel
+ 0. Exit
+:::::::::::::::::::::::::::::::::::::::::
+Enter your selection: 3
+
+Reel 1:: 
+Symbol: cherry -- Value: 1 --  Bonus: True
+Symbol: bar -- Value: 6 --  Bonus: True
+Symbol: cherry -- Value: 1 --  Bonus: True
+Symbol: orange -- Value: 0 --  Bonus: False
+Symbol: 7 -- Value: 10 --  Bonus: True
+Symbol: 7 -- Value: 10 --  Bonus: True
+Symbol: orange -- Value: 0 --  Bonus: False
+Symbol: bar -- Value: 6 --  Bonus: True
+Symbol: orange -- Value: 0 --  Bonus: False
+Symbol: cherry -- Value: 1 --  Bonus: True
+
+Reel 2:: 
+Symbol: bell -- Value: 5 --  Bonus: True
+Symbol: bell -- Value: 5 --  Bonus: True
+Symbol: lemon -- Value: 0 --  Bonus: False
+Symbol: 7 -- Value: 10 --  Bonus: True
+Symbol: 7 -- Value: 10 --  Bonus: True
+Symbol: orange -- Value: 0 --  Bonus: False
+Symbol: 7 -- Value: 10 --  Bonus: True
+Symbol: orange -- Value: 0 --  Bonus: False
+Symbol: bar -- Value: 6 --  Bonus: True
+Symbol: orange -- Value: 0 --  Bonus: False
+
+Reel 3:: 
+Symbol: 7 -- Value: 10 --  Bonus: True
+Symbol: orange -- Value: 0 --  Bonus: False
+Symbol: lemon -- Value: 0 --  Bonus: False
+Symbol: 7 -- Value: 10 --  Bonus: True
+Symbol: 7 -- Value: 10 --  Bonus: True
+Symbol: bar -- Value: 6 --  Bonus: True
+Symbol: cherry -- Value: 1 --  Bonus: True
+Symbol: bar -- Value: 6 --  Bonus: True
+Symbol: bell -- Value: 5 --  Bonus: True
+Symbol: 7 -- Value: 10 --  Bonus: True
+
+Slot Machine Simulator
+:::::::::::::::::::::::::::::::::::::::::
+ 1. Read in symbols file
+ 2. Generate Configuration
+ 3. Print config to screen
+ 4. Pick a Stop an Reel
+ 0. Exit
+:::::::::::::::::::::::::::::::::::::::::
+Enter your selection: 4
+
+Pick a Reel (1-3): 2
+Pick a Stop (1-10): 2
+
+Symbol: cherry
+Value: 1
+Bonus: True
+
+Slot Machine Simulator
+:::::::::::::::::::::::::::::::::::::::::
+ 1. Read in symbols file
+ 2. Generate Configuration
+ 3. Print config to screen
+ 4. Pick a Stop an Reel
+ 0. Exit
+:::::::::::::::::::::::::::::::::::::::::
+Enter your selection: 0
+
+Goodbye
+]0;rei@Kyo:~/cs202/projects/project3]7;file://Kyo/home/rei/cs202/projects/project3[0;36m╔═([0m[0;36mrei[0m@[0;32mKyo[0m[0;36m)────([0m22:45:41 Wed Feb 18[0;36m)────([0m~/cs202/projects/project3[0;36m)
+[0;36m╚═══[ [0m[0;36m$[0m[0;36m]>[0m exit
+exit
+
+Script done on Wed 18 Feb 2015 10:46:10 PM PST
